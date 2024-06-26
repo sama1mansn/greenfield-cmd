@@ -1,6 +1,6 @@
 module github.com/bnb-chain/greenfield-cmd
 
-go 1.20
+go5.98
 
 require (
 	cosmossdk.io/math v1.0.1
